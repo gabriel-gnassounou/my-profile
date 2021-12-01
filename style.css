@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+body {
+	background-color : #D3E4CD;
+	color : black;
+	font-family: 'Helvetica'
+
+}
+
+
+.photo {
+	width: 20%;
+	height: 20%;
+	border-radius: 50%;
+	margin-left : 40%;
+}
+
+h1{
+	text-align :center;
+}
+
+p {
+	text-align : center;
+	padding-bottom : 50px;
+	font-size : 15px;
+}
+
+div {
+	background-color : white;
+	margin-top : 25px;
+	border-style: inset;
+	border-width : 5px;
+	margin-left : 5%;
+	margin-right : 5%;
+}
+
+div h2 {
+	padding-left : 2%;
+}
+
+footer {
+	background-color : white;
+	text-align : center;
+	margin-top : 25px;
+	margin-left : 10%;
+	margin-right : 10%;
+	border-style: inset;
+	border-width : 5px;
+	border-color : grey;
+}
+
+a img{
+	widht : 10%;
+	height : 10%;
+	margin-bottom : 5px;
+
+}
+
+li {
+	list-style : none;
+	padding-right : 3%;
+}
